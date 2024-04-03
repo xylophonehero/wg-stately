@@ -52,3 +52,7 @@
 - By separating the core code into state machines and actors and only using React for the UI, we are able to quickly identify bugs and build new features.
 - Using the stately editor, we can prototype new flows together with our tech lead and designer to make sure the business requirements are met. From there we copy the generated code into our project, build the UI in react and possibly integrate it with other machines in the system.
 - For webinars in production, we can label them as debuggable which exposes the root machine in a variable in the console that we can access the system from and send events/subscribe to any machine
+
+### Project location
+
+https://stately.ai/registry/editor/45388f0a-2585-432a-8598-0a946f4621f7?mode=design&machineId=afde01f8-1314-4590-b9be-2fd5dafe90d2
