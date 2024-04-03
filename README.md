@@ -13,6 +13,8 @@
 - WebinarGeek is browser based webinar platform that can support up to 5000 viewers watching a webinar at one time.
 - WebinarGeek supports live, automated and ondemand webinars which all take place in the browser.
 - WebinarGeek is constantly shipping new features and improving existing ones based on customer feedback. As soon as a feature or fix is ready and has reviewed and gone through UAT process, we try to release it as soon as possible.
+- Average viewer count is around 63, average length 70 minutes for live webinars
+![image](https://github.com/xylophonehero/wg-stately/assets/68996622/be00097a-a8cf-45b4-9d36-39acd4ea1635)
 
 ## **Problem Statement**
 
